@@ -24,6 +24,7 @@
         "drupal/devel": "^1.2",
         "drupal/paragraphs": "^1.5",
         "drupal/services": "^4.0@beta",
+        "drupal/simplesamlphp_auth": "^3.0",
         "drush/drush": "^9.0.0",
         "vlucas/phpdotenv": "^2.4",
         "webflo/drupal-finder": "^1.0.0",
