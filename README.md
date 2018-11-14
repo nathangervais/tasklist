@@ -1,8 +1,10 @@
 # Tasklist POC
 # Setup Instructions
 * checkout this repo
-* docker-compose up -d    > this command will initialize the docker container_
-* composer create-project drupal-composer/drupal-project:8.x-dev tasklist --stability dev --no-interaction  > _this command will initialize the drupal project and download / compile the necessary files_
+* docker-compose up -d    
+>_this command will initialize the docker container_
+* composer create-project drupal-composer/drupal-project:8.x-dev tasklist --stability dev --no-interaction  
+> _this command will initialize the drupal project and download / compile the necessary files_
 
 # Composer template for Drupal projects
 
